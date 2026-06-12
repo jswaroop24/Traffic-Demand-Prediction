@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets (Do not push raw data to GitHub)
+train.csv
+test.csv
+
+# Generated Output / Submission files
+*submission*.csv
+v1_*.csv
+ultimate_gridlock_blend.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other Files
+Techincal Documentation IO.pdf

@@ -1,0 +1,14 @@
+# Core Data Manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning & Validation
+scikit-learn>=1.2.0
+
+# Gradient Boosting Frameworks
+lightgbm>=4.0.0
+catboost>=1.2.0
+
+# Optional (If you used Jupyter Notebooks locally)
+jupyter>=1.0.0
+notebook>=6.5.0
