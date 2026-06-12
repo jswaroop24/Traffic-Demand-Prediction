@@ -11,14 +11,10 @@ env/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Datasets (Do not push raw data to GitHub)
+# Datasets
 train.csv
 test.csv
-
-# Generated Output / Submission files
-*submission*.csv
-v1_*.csv
-ultimate_gridlock_blend.csv
+v1_9_tricore_ensemble_model.csv
 
 # OS generated files
 .DS_Store
